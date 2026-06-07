@@ -1,23 +1,14 @@
 {
   "username": "Game Night",
   "avatar_url": "https://ryan4312.github.io/GameNight/assets/images/GameNight_Avatar.jpg",
-  "content": "🎮 **Wednesday Game Night**\n> **This week's queue is loaded.**\n> New picks, an updated return, and some unfinished business.\n\n🟢 **NEW THIS WEEK**\n> • [Pratfall](https://store.steampowered.com/app/4244510/Pratfall/)\n> • [Sledding Game](https://store.steampowered.com/app/3438850/Sledding_Game/)\n> • [Night Shippers](https://store.steampowered.com/app/3761880/Night_Shippers/)\n> • [Crashout Crew](https://store.steampowered.com/app/3583210/Crashout_Crew/)\n> • [Drive Together](https://store.steampowered.com/app/4117320/Drive_Together/)\n> • [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/)\n> • [Far Far West](https://store.steampowered.com/app/3124540/Far_Far_West/)\n> • [Bandit Trap](https://store.steampowered.com/app/2982360/Bandit_Trap/)\n\n🔄 **UPDATED**\n> • [RV There Yet](https://store.steampowered.com/app/3949040/RV_There_Yet/)\n\n🔁 **BACK IN ROTATION**\n> • [Chained Wheels](https://store.steampowered.com/app/4243690/Chained_Wheels/) — *unplayed*\n> • [SimplePlanes 2](https://store.steampowered.com/app/2840470/SimplePlanes_2/) — *briefly played*\n> • [Teardown](https://store.steampowered.com/app/1167630/Teardown/) — ⭐ *favorite*\n> • [RoadCraft](https://store.steampowered.com/app/2104890/RoadCraft/) — *briefly played*\n> • [Flock Around](https://store.steampowered.com/app/3618030/Flock_Around/) — ⭐ *favorite*\n> • [Forza Horizon 6](https://store.steampowered.com/app/2483190/Forza_Horizon_6/) — *unplayed*\n\n> ### ✨﻿Find out more here:\n> **https://ryan4312.github.io/GameNight/new-and-updated.html**",
+  "content": "Generated locally from v1.7.2.",
   "embeds": [
     {
-      "url": "https://discohook.app#gallery-DfoYOEec",
-      "color": 5814783,
       "image": {
         "url": "https://ryan4312.github.io/GameNight/assets/images/new-and-updated.png"
-      },
-      "fields": [
-        {
-          "name": "TL;DR: Here are two posters with everything new, updated, and back in rotation this week.",
-          "value": ""
-        }
-      ]
+      }
     },
     {
-      "url": "https://discohook.app#gallery-DfoYOEec",
       "image": {
         "url": "https://ryan4312.github.io/GameNight/assets/images/back-in-rotation.png"
       }

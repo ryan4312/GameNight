@@ -3,50 +3,15 @@
   "avatar_url": "https://ryan4312.github.io/GameNight/assets/images/GameNight_Avatar.jpg",
   "embeds": [
     {
-      "title": "🎮 **Wednesday Game Night**",
-      "description": "> **This week's queue is loaded.**\n New picks, an updated return, and some unfinished business.",
-      "url": "https://discord.com/events/1200900538288590898/1339359975687852042",
-      "color": 15277667,
       "image": {
         "url": "https://ryan4312.github.io/GameNight/assets/images/new-and-updated.png"
-      },
-      "fields": [
-        {
-          "name": "🟢 **NEW THIS WEEK**",
-          "value": "> • [Pratfall](https://store.steampowered.com/app/4244510/Pratfall/)\n> • [Sledding Game](https://store.steampowered.com/app/3438850/Sledding_Game/)\n> • [Night Shippers](https://store.steampowered.com/app/3761880/Night_Shippers/)\n> • [Crashout Crew](https://store.steampowered.com/app/3583210/Crashout_Crew/)\n> • [Drive Together](https://store.steampowered.com/app/4117320/Drive_Together/)\n> • [Deep Rock Galactic](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/)\n> • [Far Far West](https://store.steampowered.com/app/3124540/Far_Far_West/)\n> • [Bandit Trap](https://store.steampowered.com/app/2982360/Bandit_Trap/)",
-          "inline": true
-        },
-        {
-          "name": "🔁 **BACK IN ROTATION**",
-          "value": "> • [Chained Wheels](https://store.steampowered.com/app/4243690/Chained_Wheels/) \n> • [SimplePlanes 2](https://store.steampowered.com/app/2840470/SimplePlanes_2/)\n> • [Teardown](https://store.steampowered.com/app/1167630/Teardown/) ⭐ \n> • [RoadCraft](https://store.steampowered.com/app/2104890/RoadCraft/)\n> • [Flock Around](https://store.steampowered.com/app/3618030/Flock_Around/) ⭐ \n> • [Forza Horizon 6](https://store.steampowered.com/app/2483190/Forza_Horizon_6/) ",
-          "inline": true
-        },
-        {
-          "name": "🔄 **UPDATED**",
-          "value": "> • [RV There Yet](https://store.steampowered.com/app/3949040/RV_There_Yet/)",
-          "inline": false
-        }
-      ]
+      }
     },
     {
-      "url": "https://discord.com/events/1200900538288590898/1339359975687852042",
       "image": {
         "url": "https://ryan4312.github.io/GameNight/assets/images/back-in-rotation.png"
       }
     }
   ],
-  "components": [
-    {
-      "type": 1,
-      "components": [
-        {
-          "type": 2,
-          "style": 5,
-          "label": "✨﻿Find out more here:",
-          "url": "https://ryan4312.github.io/GameNight/new-and-updated.html",
-          "custom_id": "p_310714522694324235"
-        }
-      ]
-    }
-  ]
+  "components": []
 }
