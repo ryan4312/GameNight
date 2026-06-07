@@ -9,3 +9,9 @@ venv/
 # Hide Generator scripts
 *.ps1
 *.bat
+
+# MDs
+.md
+
+# ignore root jsons
+/*.json

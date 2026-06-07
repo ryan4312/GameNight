@@ -1,0 +1,34 @@
+{
+  "username": "Game Night",
+  "avatar_url": "https://ryan4312.github.io/GameNight/assets/images/GameNight_Avatar.jpg",
+  "embeds": [
+    {
+      "title": "🎮 It's Game Night Wednesday!",
+      "description": "That time of the week is here — join us for another night of friendly competition and good times!",
+      "color": 7419530,
+      "footer": {
+        "text": "Game Night • Every Wednesday"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/icons/1299165595165528118/e59608253d12ee202af7c447211a79a4.webp"
+      },
+      "fields": [
+        {
+          "name": "📅 Every Wednesday",
+          "value": "Every week we get together for a night of fun and friendly competition. Whether you're a longtime regular or jumping in for the first time, everyone's welcome. Get in here and let's have a good time!",
+          "inline": false
+        },
+        {
+          "name": "🔊 Join Voice",
+          "value": "https://discord.com/channels/1299165595165528118/1299165597019541539",
+          "inline": false
+        },
+        {
+          "name": "🎟️RSVP",
+          "value": "React with ✅ if you're joining us tonight!",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
