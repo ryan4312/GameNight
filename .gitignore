@@ -1,33 +1,21 @@
-# Python files
-*.py
+# Local automation / data / secrets (not pushed to GitHub)
+tools/
+data/
+hooks/
+local/
+.env
+.env.*
+!.env.example
+*.secrets.json
+local-secrets.json
+webhook-urls.txt
+
+# Python cache / envs
 __pycache__/
 *.pyc
-
-# Root JSON
-/*.json
-
-# Script files
-*.ps1
-*.bat
-
-# Markdown files
-*.md
-!README.md
-
-# Environment files
-.env
-.env.local
-**/.env
-**/.env.local
-
-
-# Virtual environments
 .venv/
 venv/
-*.venv
 
-# Other
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
+# Playwright artifacts
+playwright-report/
+*.log
