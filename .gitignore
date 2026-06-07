@@ -1,0 +1,33 @@
+# Python files
+*.py
+__pycache__/
+*.pyc
+
+# Root JSON
+/*.json
+
+# Script files
+*.ps1
+*.bat
+
+# Markdown files
+*.md
+!README.md
+
+# Environment files
+.env
+.env.local
+**/.env
+**/.env.local
+
+
+# Virtual environments
+.venv/
+venv/
+*.venv
+
+# Other
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
