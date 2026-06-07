@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional local environment
+.venv/
+venv/
+
+# Hide Generator scripts
+*.ps1
+*.bat
