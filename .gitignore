@@ -5,7 +5,6 @@ hooks/
 local/
 .env
 .env.*
-!.env.example
 *.secrets.json
 local-secrets.json
 webhook-urls.txt
